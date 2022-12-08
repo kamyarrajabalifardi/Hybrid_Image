@@ -1,4 +1,4 @@
-# Hybrid_Image
+# Hybrid Image
 In this small project we try to implement a hybrid image based on `Img1.jpg` and `Img2.jpg` [1].
 
 How to use
