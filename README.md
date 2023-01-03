@@ -24,10 +24,7 @@ Some results are shown below:
 
 Image1             |  Image 2 |  Result
 :-------------------------:|:-------------------------:|:-------------------------:
-<img width = "200" src="https://user-images.githubusercontent.com/46090276/206499760-9127ac61-cabc-4ff1-9d67-afafe81d5c27.jpg" alt="res01">  |  <img width = "200" src="https://user-images.githubusercontent.com/46090276/206499783-f48d3e7c-c325-4228-a913-ff2223cfa49f.jpg" alt="res02">   |   <img width = "200" src="https://user-images.githubusercontent.com/46090276/206500629-3f5997ae-1002-498e-8646-d76fe73aeedd.jpg" alt="res04">
-
-Image1             |  Image 2 |  Result
-:-------------------------:|:-------------------------:|:-------------------------:
+<img width = "200" src="https://user-images.githubusercontent.com/46090276/206499760-9127ac61-cabc-4ff1-9d67-afafe81d5c27.jpg" alt="res01">  |  <img width = "200" src="https://user-images.githubusercontent.com/46090276/206499783-f48d3e7c-c325-4228-a913-ff2223cfa49f.jpg" alt="res02">   |   <img width = "200" src="https://user-images.githubusercontent.com/46090276/206500629-3f5997ae-1002-498e-8646-d76fe73aeedd.jpg" alt="res04">|
  <img width = "450" src="https://user-images.githubusercontent.com/46090276/206516761-1f3b3e25-4fbe-460a-b666-502d63f39ff8.png" alt="res01">| <img width = "200" src="https://user-images.githubusercontent.com/46090276/206517968-35be4b35-1fd8-48e6-b6c0-4b79aaad7e03.jpg" alt="res01"> |<img width = "450" src="https://user-images.githubusercontent.com/46090276/206516342-c1208e19-28ec-4b05-bb20-735205845c4e.jpg" alt="res01">
 
 
